@@ -1,2 +1,2 @@
 # Data-analysis
-project sample in pandas
+project sample using pandas
